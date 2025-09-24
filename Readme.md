@@ -1,6 +1,6 @@
 ## Task Manager Project
 
-    A full-stack Task Manager application with separate backend (Node.js/Express) and frontend (React/HTML/CSS/JS) components.
+A full-stack Task Manager application with separate backend (Node.js/Express) and frontend (React/HTML/CSS/JS) components.
 
 ## Project Structure
     task-manager/
@@ -21,9 +21,8 @@
 
     Express.js
 
-    MongoDB / SQLite / (mention your DB)
+    MongoDB / SQLite / npm
 
-    npm
 
 # Setup:
 
@@ -37,10 +36,7 @@
     npm install
 
 
-3. Create a .env file for environment variables (if needed, e.g., DB connection string). Example:
-
-    PORT=5000
-    DB_URI=<your-database-uri>
+3. Create a .env file for environment variables 
 
 
 4. Run the server:
@@ -95,4 +91,7 @@ Backend will run on http://localhost:5000 (or your specified port).
 
     This project is licensed under the MIT License.
 
-✍️ Author Kunal Shridhar Mail id: shridharkunal2005@gmail.com
+👨‍💻 Author
+Kunal Shridhar
+📧 shridharkunal2005@gmail.com
+🔗 GitHub: https://github.com/kunalshridhar1
